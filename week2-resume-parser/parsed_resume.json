@@ -1,0 +1,13 @@
+{
+    "Name": "RAHUL SHARMA",
+    "Email": "rahul.sharma25@example.com",
+    "Phone": "+91 9876543210",
+    "Matched Skills": [
+        "Python",
+        "SQL",
+        "React",
+        "Java",
+        "Git",
+        "Excel"
+    ]
+}
