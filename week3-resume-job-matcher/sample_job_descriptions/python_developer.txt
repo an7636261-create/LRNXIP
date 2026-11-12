@@ -1,0 +1,14 @@
+
+Job Title: Python Developer
+
+We are looking for a Python Developer
+with knowledge of the following technologies:
+
+Python, Java, SQL, JavaScript, HTML,
+CSS, React, Git and Excel.
+
+The candidate should also have knowledge
+of Machine Learning and its applications.
+
+Good problem-solving skills and the ability
+to work in a team are required.
